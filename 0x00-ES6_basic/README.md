@@ -1,0 +1,27 @@
+# 0x00. ES6 Basics
+
+In this directory, you will find basic javascript introduction
+----
+
+Resources
+### Check the following from resources of your own choice
+
+ECMAScript 6 - ECMAScript 2015
+Statements and declarations
+Arrow functions
+Default parameters
+Rest parameter
+Javascript ES6 — Iterables and Iterators
+
+
+### At the end of your reading you should understand:
+
+- What ES6 is
+- New features introduced in ES6
+- The difference between a constant and a variable
+- Block-scoped variables
+- Arrow functions and function parameters default to them
+- Rest and spread function parameters
+- String templating in ES6
+- Object creation and their properties in ES6
+- Iterators and for-of loops
